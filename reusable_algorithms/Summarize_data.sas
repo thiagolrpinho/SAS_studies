@@ -1,0 +1,13 @@
+proc sql;
+CREATE TABLE WORK.SUMMARIZEDTABLE AS
+  SELECT DISTINCT Customer_Name,
+    count(quantity) AS Sum_Of_Quantity 
+  FROM WORK.ORION_PROFIT8232 AS t1
+  GROUP BY  Customer_Id;
+
+CREATE TABLE WORK.SUMMARIZEDFILTEREDTABLE AS
+  SELECT Customer_Name,
+    Sum_Of_Quantity 
+  FROM WORK.SUMMARIZEDTABLE AS t1
+  WHERE t1.Sum_Of_Quantity >= 10;
+quit;

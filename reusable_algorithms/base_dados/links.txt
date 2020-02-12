@@ -1,0 +1,251 @@
+Treinamento de inteligência artificial com reconhecimento de imagens.
+Pessoas que gravam vídeos para treinar a AI.
+https://www.wired.com/story/behind-artificial-intelligence-lurk-oddball-low-paid-tasks/?utm_sourc
+e=MIT+Technology+Review&utm_campaign=1fd3bf4fe6-EMAIL_CAMPAIGN_2018_02_09&ut
+m_medium=email&utm_term=0_997ed6f472-1fd3bf4fe6-156914101
+Uso de Score de Credito e Credibilidade na China
+http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion
+https://www.theverge.com/2018/3/16/17130366/china-social-credit-travel-plane-train-tickets
+Legislações sobre auditabilidade e reprodutibilidade de modelos utilizados na administração
+pública
+https://medium.com/@AINowInstitute/algorithmic-impact-assessments-toward-accountable-automation-inpublic-agencies-bd9856e6fdde
+Data Sources publicos para testes
+https://search.app.goo.gl/nWP5
+Analise de vies
+https://www.inc.com/michelle-cheng/how-do-you-design-a-robot-that-isnt-sexist-or-racist-its-harder-than-y
+ou-think.html?utm_source=MIT+Technology+Review&utm_campaign=eddc2ff89e-EMAIL_CAMPAIGN_2
+018_02_28&utm_medium=email&utm_term=0_997ed6f472-eddc2ff89e-156914101
+Como contar uma boa história, User Experience (UX). Não basta um bom modelo, vc precisa comunicar
+ao usuário informações relevantes de formas úteis e relevantes quando ele precisa.
+https://hbr.org/2018/03/what-happens-when-data-scientists-and-designers-work-together
+Bugs de treinamentos em redes neurais para identificação de imagens
+http://aiweirdness.com/post/171451900302/do-neural-nets-dream-of-electric-sheep?utm_source=MIT+Te
+chnology+Review&utm_campaign=12a66f4361-EMAIL_CAMPAIGN_2018_03_05&utm_medium=email&
+utm_term=0_997ed6f472-12a66f4361-156914101
+https://twitter.com/JanelleCShane/status/969239712190746624
+Tentando explicar a linha de raciocínio em uma rede neural ou machine learning
+https://distill.pub/2018/building-blocks/
+Bugs de treinamento em NPL (Natural Processing Language)
+https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter
+História - Como eram feitos os programas / modelos de navegacao que colocaram o homem na Lua
+https://www.youtube.com/watch?v=P12r8DKHsak
+Analise de Vies - Machine Learning no sistema judicial - Analise de direito a fianca
+https://www.bloomberg.com/view/articles/2018-03-09/big-data-alone-can-t-fix-a-broken-bail-system
+Potencial de aprendizado de Machine Learning / Deep Learning
+https://www.chess.com/pt/news/view/alphazero-da-google-destroi-stockfish-em-confronto-de-100-partidas
+-4579
+Uso de Robôs em Órgãos de Controle brasileiros para identificação de fraude
+https://g1.globo.com/economia/tecnologia/noticia/como-as-robos-alice-sofia-e-monica-ajudam-o-tcu-a-cac
+ar-irregularidades-em-licitacoes.ghtml
+Uso e acesso a informações pessoais / roubo de informações
+https://lifehacker.com/now-is-a-good-time-to-check-what-third-party-apps-you-h-1823863761
+Complexidade de implantação / sistemas de modelagem com várias pessoas trabalhando em paralelo /
+dificuldade de replicação de resultados
+https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/
+Link para o curso basico de machine learning do Google
+https://developers.google.com/machine-learning/crash-course/ml-intro
+Vies
+http://bigdata-madesimple.com/four-cognitive-biases-that-affect-big-data-analysis/
+http://guerrilla-analytics.net/bias-in-data-science/
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
+Google Data Studio
+https://datastudio.google.com/u/0/org//navigation/reporting?utm_medium=email&utm_source=newsletter&
+utm_campaign=marchdatastudio&utm_content=en
+Imagens e Objetos que enganam IA
+https://www.theverge.com/2017/11/2/16597276/google-ai-image-attacks-adversarial-turtle-rifle-3d-printed
+Quanta informação o Google e Facebook tem de vc
+https://twitter.com/iamdylancurran/status/977559925680467968?s=08
+Lei de Benford - Primeiro dígito de um número
+https://pt.m.wikipedia.org/wiki/Lei_de_Benford
+Uso de robôs em campanhas eleitorais
+http://g1.globo.com/fantastico/noticia/2018/03/candidatos-postaram-usando-robos-nas-eleicoes-revela-es
+tudo-da-fgv.html
+Vc precisa de um Cientista de Dados / Pre Requisitos
+https://www.entrepreneur.com/article/310505
+Por que Python
+https://www.codementor.io/kunaldhawan93/data-science-and-python-i2ai6pntw
+Otimização de modelos
+https://machinelearningmastery.com/start-with-gradient-boosting/
+GDPR - Data Privacy
+https://www.eugdpr.org/
+Expectativa versus realidade em ciencia de dados
+https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4
+Uso de Drones como salva vidas e para monitorar presença de tubarões em praias
+https://undark.org/article/sharks-detection-ai-drones-beach/?utm_source=MIT+Technology+Review&utm_
+campaign=27b2663588-EMAIL_CAMPAIGN_2018_04_02&utm_medium=email&utm_term=0_997ed6f47
+2-27b2663588-156914101
+Estonia patrocinando medicina personalizada e mapeamento genetico para 10% da populacao
+https://www.newscientist.com/article/2165318-estonia-to-give-genetic-testing-and-advice-to-100000-resid
+ents/?utm_source=MIT+Technology+Review&utm_campaign=27b2663588-EMAIL_CAMPAIGN_2018_0
+4_02&utm_medium=email&utm_term=0_997ed6f472-27b2663588-156914101
+Cyber Ataque Atlanta
+https://www.reuters.com/article/us-usa-cyber-atlanta/with-paper-and-phones-atlanta-struggles-to-recover-f
+rom-cyber-attack-idUSKBN1H70R0?utm_source=MIT+Technology+Review&utm_campaign=27b2663588
+-EMAIL_CAMPAIGN_2018_04_02&utm_medium=email&utm_term=0_997ed6f472-27b2663588-1569141
+01
+Tay - Microsoft’s neo-Nazi sexbot was a great lesson for makers of AI assistants
+https://www.technologyreview.com/s/610634/microsofts-neo-nazi-sexbot-was-a-great-lesson-for-makersof-ai-assistants/?set=609940&utm_source=newsletters&utm_medium=email&utm_content=2018_03_28&
+utm_campaign=the_algorithm&utm_source=MIT+Technology+Review&utm_campaign=697a1ce63c-EMA
+IL_CAMPAIGN_2018_03_28&utm_medium=email&utm_term=0_997ed6f472-697a1ce63c-156914101
+Impacts of Bad data on Machine Learning
+https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
+Processo da Vivo pelo MP por quebra de privacidade de usuários
+https://www.tecmundo.com.br/seguranca/128908-vivo-investigada-uso-ilegal-dados-milhoes-de-clientes-d
+iz-mp.htm
+Grindr compartilhou dados e status de HIV de usuários com outras empresas
+http://idgnow.com.br/internet/2018/04/03/grindr-compartilhou-dados-e-status-de-hiv-de-usuarios-com-outr
+as-empresas/
+Qual a melhor segmentação para análise, qual a pergunta
+https://www.statschat.org.nz/2018/03/26/the-data-speak-for-themselves-4/
+Simpson Paradox
+https://www.youtube.com/watch?v=E_ME4P9fQbo
+http://vudlab.com/simpsons/
+Redes Neurais
+https://towardsdatascience.com/nns-aynk-c34efe37f15a
+Os direitos dos robôs e inteligência artificial (exemplo da industria pornografica)
+http://theconversation.com/samanthas-suffering-why-sex-machines-should-have-rights-too-93964
+Google passando a obtenção de imagens e voz para os usuarios (gamificacao)
+Amazon faz igual, mas montou um marketplace para negociar os ativos
+https://www.wired.com/story/google-turns-to-users-to-improve-its-ai-chops-outside-the-us/
+Visualização e exploração de dados com Python
+https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
+Caso vazamento de dados do facebook
+https://www.cnet.com/news/facebook-zuckerberg-bans-political-data-analytics-firm-aggregateiq-cambridg
+e-analytica/
+Cadastramento biométrico para benefícios sociais na Índia (rosto e digitais)
+https://www.nytimes.com/2018/04/07/technology/india-id-aadhaar.html
+Como reproduzir um acidente por carro autônomo
+A IA depende de uma infraestrutura e padrões bem adotados (trecho de estrada pos obra)
+https://www.mirror.co.uk/news/us-news/tesla-driver-uses-autopilot-recreate-12318875
+Como treinar um modelo de Reinforced Learning
+https://www.theregister.co.uk/2018/04/05/openai_challenge_developers_to_play_sonic_the_hedgehog_wi
+th_ai/?utm_source=MIT+Technology+Review&utm_campaign=eb7a96f584-EMAIL_CAMPAIGN_2018_0
+4_06&utm_medium=email&utm_term=0_997ed6f472-eb7a96f584-156914101
+Versionamento de codigo de Ciencia de Dados
+https://techcrunch.com/2018/04/05/cometml-wants-to-do-for-machine-learning-what-github-did-for-code/?
+utm_source=MIT+Technology+Review&utm_campaign=eb7a96f584-EMAIL_CAMPAIGN_2018_04_06&u
+tm_medium=email&utm_term=0_997ed6f472-eb7a96f584-156914101
+Como a China esta planejando sua economia com IA
+https://www.technologyreview.com/s/609038/chinas-ai-awakening/
+https://www.wired.com/story/ex-google-executive-opens-a-school-for-ai-with-chinas-help/
+Policiamento preditivo
+https://www.aclu.org/issues/privacy-technology/surveillance-technologies/high-definition-artificially-intellig
+ent-all?utm_source=MIT+Technology+Review&utm_campaign=d8fc7bda34-EMAIL_CAMPAIGN_2018_0
+4_05&utm_medium=email&utm_term=0_997ed6f472-d8fc7bda34-156914101
+Newsletters do MIT sobre ciência de dados, AI e criptomoedas
+https://www.technologyreview.com/newsletters/
+3 - How computers learn to recognize objects instantly
+https://www.youtube.com/watch?v=Cgxsv1riJhI&feature=youtu.be
+1 - O que e uma rede neural
+https://www.youtube.com/watch?v=aircAruvnKk
+2 - Como redes neurais aprendem
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+O que eh backpropagation
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
+Data Citizens
+https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/artificial-intelligence/2018/04/09/cassie-k
+ozyrkov-interview/?amp=1
+Uma usina eletrica administrada por IA
+https://www.bloomberg.com/news/articles/2018-04-09/forget-cars-mitsubishi-hitachi-sees-autonomous-po
+wer-plants
+Entrevista do Zuckeberg ao Senado Americano
+Nível de conhecimento dos legisladores sobre a tecnologia
+https://tecnologia.uol.com.br/noticias/redacao/2018/04/11/audiencia-de-zuckeberg-tambem-foi-aula-de-co
+mo-usar-a-internet.htm
+AI para diagnostico medico, sem necessidade de autorizacao medica
+https://www.technologyreview.com/the-download/610853/fda-approves-first-ai-powered-diagnostic-that-d
+oesnt-need-a-doctors-help/?utm_source=newsletters&utm_medium=email&utm_content=2018-04-12&ut
+m_campaign=the_download
+AI do Google que lê livros para responder perguntas
+https://flipboard.com/@flipboard/-googles-astounding-new-search-tool-will/f-bfe54612e5%2Fqz.com
+Quais leis se aplicam a robôs e inteligências artificiais
+https://www.politico.eu/article/europe-divided-over-robot-ai-artificial-intelligence-personhood/?utm_source
+=MIT+Technology+Review&utm_campaign=6f360b0b17-EMAIL_CAMPAIGN_2018_04_12&utm_medium
+=email&utm_term=0_997ed6f472-6f360b0b17-156914101
+GovData
+http://computerworld.com.br/com-analise-de-dados-governo-define-cancelamento-de-mais-de-150-mil-be
+neficios-sociais
+Ataques a redes neurais utilizadas em diagnosticos medicos
+https://www.theregister.co.uk/2018/04/19/beware_medical_ai_systems_are_easy_targets_for_fraud_and
+_error/?utm_source=MIT+Technology+Review&utm_campaign=2f63cd6516-EMAIL_CAMPAIGN_2018_0
+4_20&utm_medium=email&utm_term=0_997ed6f472-2f63cd6516-156914101
+Ataques a redes neurais com adesivos
+https://www.theregister.co.uk/2018/01/03/fooling_image_recognition_software/
+Ataques a redes neurais, alteração de imagem
+https://www.theregister.co.uk/2017/11/06/mit_fooling_ai/
+https://www.theregister.co.uk/2017/12/18/black_box_ai_attack/
+Análise de feições e emoções
+https://www.cnbc.com/2018/04/20/emotion-artificial-intelligence-huawei-working-on-an-emotional-ai.html?
+utm_source=MIT+Technology+Review&utm_campaign=2f63cd6516-EMAIL_CAMPAIGN_2018_04_20&u
+tm_medium=email&utm_term=0_997ed6f472-2f63cd6516-156914101
+Palantir
+https://www.bloomberg.com/features/2018-palantir-peter-thiel/
+Coleta de dados para veiculos autonomos
+https://www.theverge.com/transportation/2018/4/19/17204044/tesla-waymo-self-driving-car-data-simulatio
+n
+Data Science como comecar
+https://towardsdatascience.com/5-reasons-logistic-regression-should-be-the-first-thing-you-learn-when-be
+come-a-data-scientist-fcaae46605c4
+Maiores data centers do Mundo
+http://worldstopdatacenters.com/power/
+Visualizacoes de dados interessantes
+https://earthtime.org/
+Vendas trimestrais de iPhone
+https://www.statista.com/statistics/263401/global-apple-iphone-sales-since-3rd-quarter-2007/
+GDPR Impactos no Google e Facebook
+https://www.nytimes.com/2018/04/23/technology/privacy-regulation-facebook-google.html
+Renda Minima
+https://www.bbc.co.uk/news/amp/world-europe-43866700
+Vies em algoritmos
+https://tecnologia.uol.com.br/noticias/redacao/2018/04/24/preconceito-das-maquinas-como-algoritmos-to
+mam-decisoes-discriminatorias.htm
+Análise de algoritmos em nosso dia a dia
+http://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/
+Whatsapp GDPR
+http://www.bbc.com/news/business-43888647
+SimSimi - Machine Learning gone wrong
+http://www.gazetadopovo.com.br/economia/nova-economia/brasileiros-vandalizam-inteligencia-artificial-eapp-e-retirado-do-pais-29x2pje9tcxbkijhaainuhb22
+AI Fazendo entrevistas de emprego
+https://ai.robotvera.com/static/newrobot_en/index.html
+Livro sobre a modelagem de score de crédito utilizando scorecard, regressões e árvore de decisão
+https://www.amazon.com/Intelligent-Credit-Scoring-Implementing-Scorecards/dp/1119279151/ref=sr_1_fk
+mr0_1?ie=UTF8&qid=1525269245&sr=8-1-fkmr0&keywords=naeem+credir+scoring
+Como escolher um modelo de Machine Learning para o seu problema
+https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
+Reconhecimento de caracteres escritos a mão
+https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/5592
+05/
+Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python
+https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-p
+ython-37a1aade7924
+Regressão Linear Interativa
+http://shiny.estatistica.ccet.ufrn.br/regressao-linear-interativa/
+GAN - Generative adversarial networks
+https://deeplearning4j.org/generative-adversarial-network
+Visualizacoes em R
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+Machine Learning para Data Citizens
+https://techcrunch.com/2018/05/05/lobes-ridiculously-simple-machine-learning-platform-aims-to-empower
+-non-technical-creators/
+Ferramentas gratuitas para integracao de dados
+http://computerworld.com.br/7-ferramentas-gratuitas-e-eficazes-para-analise-de-dados
+Matriz de confusao
+http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+Deteccao de objetos em real time
+https://www.youtube.com/watch?v=Cgxsv1riJhI
+https://www.youtube.com/watch?v=fY7Eeg4SM7E
+Fake News
+https://gizmodo.com/pretty-much-all-tech-demos-are-fake-as-hell-1826143494
+Informações que carros autônomos analisam para mudar de faixa
+https://www.popsci.com/how-self-driving-cars-change-lanes
+Is big data bullshit?
+http://bigdata-madesimple.com/big-data-bullshit/
+Calling Bullshit
+http://callingbullshit.org/
+https://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide
+https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS
+O que e Machine Learning?
+https://www.datasciencecentral.com/profiles/blogs/machine-learning-can-we-please-just-agree-what-thismeans
+Fake News
+https://g1.globo.com/mundo/noticia/cidade-americana-envia-alerta-de-ameaca-zumbi-a-moradores-durant
+e-apagao.ghtml
