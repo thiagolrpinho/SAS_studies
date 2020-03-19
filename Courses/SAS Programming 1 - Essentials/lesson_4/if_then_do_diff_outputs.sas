@@ -1,0 +1,31 @@
+data girls boys;
+    set sashelp.class;
+    if sex="F" then do;
+        Gender="Female";
+        output girls;
+    end;
+    else do;
+        Gender="Male";
+        output boys;
+    end;
+run;  
+
+data parks monuments;
+    set pg1.np_summary;
+    where type in ('NM', 'NP');
+    Campers=sum(OtherCamping, TentCampers, RVCampers,
+                BackcountryCampers);
+    format Campers comma17.;
+    length ParkType $ 8;
+    select (type);
+        when ('NP') do;
+            ParkType='Park';
+            output parks;
+		end;
+		otherwise do;
+            ParkType='Monument';
+            output monuments;
+		end;
+    end;
+    keep Reg ParkName DayVisits OtherLodging Campers ParkType;
+run;
